@@ -1,0 +1,61 @@
+{
+  "menu": {
+    "client": [
+      {
+        "label": "首页",
+        "to": "/home"
+      },
+      {
+        "label": "课程介绍",
+        "to": "/courseIntroduction"
+      },
+      {
+        "label": "教学团队",
+        "to": "/teachingTeam"
+      },
+      {
+        "label": "课程建设",
+        "to": "/courseConstruction"
+      },
+      {
+        "label": "课程资源",
+        "to": "/courseResource"
+      },
+      {
+        "label": "问题与答疑",
+        "to": "/questionsAndAnswers"
+      },
+      {
+        "label": "课程研究",
+        "to": "/courseResearch"
+      }
+    ],
+    "clientCourseIntro": [
+      {
+        "label": "课程简介",
+        "to": "/courseIntroduction/courseBriefIntro"
+      },
+      {
+        "label": "教学方法",
+        "to": "/courseIntroduction/teachingMethod"
+      },
+      {
+        "label": "课程安排",
+        "to": "/courseIntroduction/courseSchedule"
+      },
+      {
+        "label": "课程大纲",
+        "to": "/courseIntroduction/courseOutline"
+      },
+      {
+        "label": "课程理念与目标",
+        "to": "/courseIntroduction/coursePhilosophyGoals"
+      },
+      {
+        "label": "课程动态",
+        "to": "/courseIntroduction/courseDynamics"
+      }
+    ],
+    "admin": []
+  }
+}
